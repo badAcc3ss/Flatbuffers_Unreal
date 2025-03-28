@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "idQOqeEpvbU=",
+  "success": true,
+  "projectFilePath": "E:\\UE_Projects\\TestingFlatBuffers\\Plugins\\FlatBufferMetaGenerator\\Source\\FlatBufferGenerator\\FlatBufferGenerator.ubtplugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

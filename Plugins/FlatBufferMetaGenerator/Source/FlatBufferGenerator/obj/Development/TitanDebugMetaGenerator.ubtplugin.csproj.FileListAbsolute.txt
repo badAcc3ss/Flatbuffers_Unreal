@@ -1,0 +1,11 @@
+D:\Workspace\Development\titan-engine\Titan\Binaries\DotNET\UnrealBuildTool\Plugins\TitanDebugMenuMetaGenerator\TitanDebugMenuMetaGenerator.deps.json
+D:\Workspace\Development\titan-engine\Titan\Binaries\DotNET\UnrealBuildTool\Plugins\TitanDebugMenuMetaGenerator\TitanDebugMenuMetaGenerator.dll
+D:\Workspace\Development\titan-engine\Titan\Binaries\DotNET\UnrealBuildTool\Plugins\TitanDebugMenuMetaGenerator\ref\TitanDebugMenuMetaGenerator.dll
+D:\Workspace\Development\titan-engine\Titan\Binaries\DotNET\UnrealBuildTool\Plugins\TitanDebugMenuMetaGenerator\TitanDebugMenuMetaGenerator.pdb
+D:\Workspace\Development\titan-engine\Titan\Plugins\TitanDebugMenuMetaGenerator\Source\TitanDebugMetaGenerator\obj\Development\TitanDebugMetaGenerator.ubtplugin.csproj.AssemblyReference.cache
+D:\Workspace\Development\titan-engine\Titan\Plugins\TitanDebugMenuMetaGenerator\Source\TitanDebugMetaGenerator\obj\Development\TitanDebugMetaGenerator.ubtplugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Development\titan-engine\Titan\Plugins\TitanDebugMenuMetaGenerator\Source\TitanDebugMetaGenerator\obj\Development\TitanDebugMetaGenerator.ubtplugin.csproj.CoreCompileInputs.cache
+D:\Workspace\Development\titan-engine\Titan\Plugins\TitanDebugMenuMetaGenerator\Source\TitanDebugMetaGenerator\obj\Development\TitanDebugMetaGenerator.ubtplugin.csproj.CopyComplete
+D:\Workspace\Development\titan-engine\Titan\Plugins\TitanDebugMenuMetaGenerator\Source\TitanDebugMetaGenerator\obj\Development\TitanDebugMenuMetaGenerator.dll
+D:\Workspace\Development\titan-engine\Titan\Plugins\TitanDebugMenuMetaGenerator\Source\TitanDebugMetaGenerator\obj\Development\refint\TitanDebugMenuMetaGenerator.dll
+D:\Workspace\Development\titan-engine\Titan\Plugins\TitanDebugMenuMetaGenerator\Source\TitanDebugMetaGenerator\obj\Development\TitanDebugMenuMetaGenerator.pdb
